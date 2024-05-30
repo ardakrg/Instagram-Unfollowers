@@ -6,4 +6,4 @@ To use the app, the user has to download their "followers" and "followings" file
 
 The app is currently in Turkish.
 
-To use the program, run instagram_unfollowers_final.py file.
+To use the program, run the app.py file.
