@@ -1,5 +1,31 @@
+"""
+Instagram Unfollowers, see the unfollowers on Instagram
+Copyright (C) 2024 ardakrg
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+"""
+
 from instagram_unfollowers_final import *
 
+gnu = """
+Instagram Unfollowers  Copyright (C) 2024  ardakrg
+This program comes with ABSOLUTELY NO WARRANTY;
+for details look at the readme file.
+This is free software, and you are welcome to redistribute it
+under certain conditions.
+"""
+print(gnu)
 first_input()
 second_input()
 create_lists()
