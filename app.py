@@ -21,7 +21,7 @@ from instagram_unfollowers_final import *
 gnu = """
 Instagram Unfollowers  Copyright (C) 2024  ardakrg
 This program comes with ABSOLUTELY NO WARRANTY;
-for details look at the readme file.
+for details read the license.
 This is free software, and you are welcome to redistribute it
 under certain conditions.
 """
